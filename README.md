@@ -99,7 +99,7 @@ EXIT;
 ---
 
 ## 📈 Future Roadmap
-- Couldn't complete the assignmentdue to the local mysql server not working on my machine. So, I couldn't test and deploy the application. But, here are some features that can be added in the future:
+- Couldn't complete the assignment due to the local mysql server not working on my machine. So, I couldn't test and deploy the application. But, here are some features that can be added in the future:
 - **Category Selection:** Choose from different themes like landmarks, food, culture, etc.
 - **Difficulty Levels:** Adjust the game complexity based on user preference.
 - **Progressive Web App:** Enable offline access and push notifications.
